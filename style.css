@@ -222,7 +222,7 @@ main > * {
   max-width: 300px;
   margin: auto;
   font-family: arial;
-  border: 5px solid black;
+  border: 5px solid green;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -246,7 +246,7 @@ main > * {
   outline: 0;
   padding: 12px;
   color: white;
-  background-color: #000;
+  background-color: green;
   text-align: center;
   cursor: pointer;
   width: 100%;
@@ -258,7 +258,7 @@ main > * {
 }
 
 .explore-btn {
-  background-color: black;
+  background-color: green;
   color: white;
   transition: 250ms fadeout;
   padding: 1rem;
@@ -269,7 +269,7 @@ main > * {
 
 .explore-btn:hover {
   background-color: white;
-  color: black;
+  color: green;
 }
 
 .green-span {
